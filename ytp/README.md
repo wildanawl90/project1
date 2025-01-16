@@ -10,3 +10,6 @@ Program sederhana untuk memutar video YouTube berdasarkan nama lagu.
 ## Fitur
 - Memutar video lagu dari YouTube.
 - Menyimpan riwayat lagu yang diputar.
+
+## Penjelasan
+- Setelah mengikut semua langkah-langkah nanti untuk setelah di terminal mengetikkan judul lagu akan otomatis masuk youtube di browser default sistem
